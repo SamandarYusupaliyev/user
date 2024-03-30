@@ -11,10 +11,10 @@
     justify-content: center;
     align-items:center;
     z-index: 100;
-    margin-bottom:50px;
 }
 
-.modal {
+.modal{
+    margin-top:60px;
     background-color:#fff;
     padding: 0.5rem 2rem;
     border-radius: 0.5rem;
